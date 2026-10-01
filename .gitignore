@@ -1,0 +1,6 @@
+/runtime/
+/results/
+/downloads/
+/__pycache__/
+/installed-app.json
+*.pyc

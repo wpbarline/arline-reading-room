@@ -1,0 +1,56 @@
+{
+  "recordings": [
+    {
+      "title": "Brenda: consciousness & prison — About this collection",
+      "source": "2026-09-30-arline-brenda-consciousness-prison-premise.md",
+      "created": "2026-10-01T06:35:41",
+      "text_sha256": "f5773531eabc9734cc97f9906a69073fed60c5f28310db3e80dc1f4d35dbfc05",
+      "job": "20261001-063541-cfbca381",
+      "engine": "chatterbox",
+      "voice": "builtin",
+      "duration_seconds": 6,
+      "audio": "./audio/20261001-063541-cfbca381.wav"
+    },
+    {
+      "title": "Courtroom scene — Turbo preview",
+      "source": "RECOVERED-STORY.md · S012 opening paragraph",
+      "created": "2026-10-01T05:58:31",
+      "text_sha256": "776c7a9f1a8dc5daf6421b887932bf1f939561e000e056505cebcafad6a01f33",
+      "job": "20261001-055831-b2933c61",
+      "engine": "chatterbox",
+      "voice": "builtin",
+      "duration_seconds": 7,
+      "audio": "./audio/20261001-055831-b2933c61.wav"
+    },
+    {
+      "title": "Welcome to the Reading Room — Kokoro Heart",
+      "source": "Narrator demonstration",
+      "created": "2026-10-01T05:57:56",
+      "text_sha256": "f012068999f76a30c85fc0f35faae295eac9074dfe1384f1da4bb1f314f5d684",
+      "job": "20261001-055756-c2d8a559",
+      "engine": "kokoro",
+      "voice": "af_heart",
+      "duration_seconds": 11,
+      "audio": "./audio/20261001-055756-c2d8a559.wav"
+    },
+    {
+      "title": "Welcome to the Reading Room — Chatterbox Turbo",
+      "source": "Narrator demonstration",
+      "created": "2026-10-01T05:55:47",
+      "text_sha256": "f012068999f76a30c85fc0f35faae295eac9074dfe1384f1da4bb1f314f5d684",
+      "job": "20261001-055547-6ebe1f27",
+      "engine": "chatterbox",
+      "voice": "builtin",
+      "duration_seconds": 10,
+      "audio": "./audio/20261001-055547-6ebe1f27.wav"
+    },
+    {
+      "title": "The AI Stands Accused — Recovered passage S012",
+      "source": "RECOVERED-STORY.md",
+      "created": "2026-10-01T04:59:19",
+      "text_sha256": "423eec2482672d3b06316d39e4e45d47a90e309d2f6bd06b9cce8b7b65e5ecd0",
+      "job": "20261001-045919-6859471b",
+      "audio": "./audio/20261001-045919-6859471b.wav"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "id": "story",
+      "title": "The AI Stands Accused",
+      "subtitle": "Recovered scenes, drafts & author notes"
+    },
+    {
+      "id": "guide",
+      "title": "The story at a glance",
+      "subtitle": "A short guide to the recovered plot"
+    },
+    {
+      "id": "premise",
+      "title": "Brenda: consciousness & prison",
+      "subtitle": "Arline’s preserved story notes"
+    }
+  ]
+}

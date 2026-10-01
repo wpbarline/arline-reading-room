@@ -1,0 +1,16 @@
+{
+  "voices": [
+    {
+      "id": "chatterbox:builtin",
+      "label": "Chatterbox Turbo · saved readings"
+    },
+    {
+      "id": "kokoro:af_heart",
+      "label": "Kokoro Heart · saved readings"
+    },
+    {
+      "id": "windows:zira",
+      "label": "Windows Zira · saved readings"
+    }
+  ]
+}
